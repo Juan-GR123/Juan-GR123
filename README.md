@@ -38,11 +38,6 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="60" alt="markdown logo"  />
 </div>
-
-## Tecnologías adicionales
-
-Adicionalmente, también he aprendido un poco o lo básico de tecnologías como Laravel, Tailwind y XAMPP lo básico igual que todas las mencionadas anteriormente.
-
 ---
 
 ### 📊 Mis estadísticas de GitHub
