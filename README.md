@@ -4,10 +4,10 @@
 
 ## 🗣️ Sobre mí :
 
-🎓 Desarrollador en formación | 2º año DAW
-💻 Apasionado por el desarrollo web y la tecnología.
-🌐 Intereses: Frontend, Backend, diseño UI/UX y bases de datos.
-🛠️ Stack: HTML, HTML, CSS, JavaScript, PHP, MySQL, Scss
+- 🎓 Desarrollador en formación | 2º año DAW
+- 💻 Apasionado por el desarrollo web y la tecnología.
+- 🌐 Intereses: Frontend, Backend, diseño UI/UX y bases de datos.
+- 🛠️ Stack: HTML, HTML, CSS, JavaScript, PHP, MySQL, Scss
 
 ## 💻 Tecnologías que he aprendido y usado durante mi capacitación:
 
