@@ -39,12 +39,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="60" alt="markdown logo"  />
 </div>
 ---
-
+<div align="center">
 ### 📊 Mis estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Juan-GR123&show_icons=true&theme=radical)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-GR123&layout=compact&theme=radical)
-
+</div>
 
 <!--
 **Juan-GR123/Juan-GR123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
